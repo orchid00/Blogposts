@@ -78,6 +78,8 @@ The first day of the workshop May 12, we had the first Darwin COMBINE meetup, wh
 were welcomed plus all other interested in Bioinformatics/Computational Biology. It was a great night, 
 not only for the time to bond, but also cuz Sam got us free drinks.
 
+####
+
 I hope you enjoyed this experience as much as I did, 
 
 [Paula Andrea Martinez] (https://github.com/orchid00)
