@@ -72,14 +72,16 @@ To everyone who helped with organising locally - Steve, Jess, Jess, Linda, Erin,
 awesome attendees, you made this a real success!!!
 
 ##Highlights##
-This workshop was included as part of the Charles Darwin University Research Enhancement Program (REP), 
+This workshop was included as part of the [Charles Darwin University Research Enhancement Program (REP)](http://www.cdu.edu.au/research/ori/research-enhancement-program), 
 from which PhD students benefit - they need to attend a number of these workshops during their candidature.
 The first day of the workshop May 12, we had the first Darwin COMBINE meetup, where all attendees 
 were welcomed plus all other interested in Bioinformatics/Computational Biology. It was a great night, 
-not only for the time to bond, but also cuz Sam got us free drinks.
+with high chances to be repeated.
 
 ####
 
 I hope you enjoyed this experience as much as I did, 
 
 [Paula Andrea Martinez] (https://github.com/orchid00)
+
+[[https://github.com/orchid00/repository/blob/master/img/octocat.png|alt=octocat]]
