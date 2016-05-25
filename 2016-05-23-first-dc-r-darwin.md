@@ -6,6 +6,9 @@ date: 2016-05-23
 time: "00:00:01"
 category: ["Workshops"]
 ---
+
+##First Data Carpentry workshop in Darwin##
+
 The [COMBINE](https://combine.org.au/) [Data Carpentry](http://www.datacarpentry.org/) R workshop at 
 [Charles Darwin University](http://www.cdu.edu.au/) was filled with joy, enthusiastic attendees 
 and extra degrees of warm.
