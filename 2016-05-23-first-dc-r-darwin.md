@@ -50,6 +50,8 @@ to ask about their projects and about Darwin. I discovered that many people actu
 that there are crocs everywhere, and that we were in the best season weather of the year! At the end everyone 
 was happy to say: "see you guys tomorrow!"
 
+![Darwin-R-COMBINE-Workshop](https://pbs.twimg.com/media/CjRLLNMUUAEatwd.jpg)
+
 The second day, we did some plotting and it was nice to hear all those “WOWs”, “That’s beautiful”, 
 “Ahhhhs” and so on, and so on. I think, and from the feedback I can say that everyone had a 
 good time plotting and finished with a thirst for more! Our last part of the workshop involved 
