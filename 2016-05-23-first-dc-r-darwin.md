@@ -84,4 +84,4 @@ I hope you enjoyed this experience as much as I did,
 
 [Paula Andrea Martinez] (https://github.com/orchid00)
 
-[[https://pbs.twimg.com/media/CiUVZXPUkAEAzSm.jpg:large|alt=darwinGroup]]
+[darwinGroup](https://pbs.twimg.com/media/CiUVZXPUkAEAzSm.jpg:large)
