@@ -84,4 +84,4 @@ I hope you enjoyed this experience as much as I did,
 
 [Paula Andrea Martinez] (https://github.com/orchid00)
 
-[[https://github.com/orchid00/repository/blob/master/img/octocat.png|alt=octocat]]
+[[https://pbs.twimg.com/media/CiUVZXPUkAEAzSm.jpg:large|alt=darwinGroup]]
